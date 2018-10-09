@@ -15,4 +15,4 @@ title: Jekyll study for MathKang
 
 **Bold** and _Italic_ and `Code` text
 
-![LOGO](https://mathkang.github.io/kenguru_logo.png) Link to [Macropus](http://macropus.bizml.ru)
+![LOGO](https://mathkang.bizml.ru/kenguru_logo.png) Link to [Macropus](https://macropus.bizml.ru)

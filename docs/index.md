@@ -20,3 +20,5 @@ title: Jekyll study for MathKang
 Link to [![LOGO](https://mathkang.bizml.ru/kenguru_logo.png)@GitHub](https://mathkang.bizml.ru)
 
 Link to [Macropus@GitHub](https://macropus.bizml.ru)
+
+[Jekyll wiki](https://github.com/mathkang/Jekyll/wiki)

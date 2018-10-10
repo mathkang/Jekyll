@@ -15,7 +15,7 @@ title: Jekyll study for MathKang
 
 **Bold** and _Italic_ and `Code` text
 
-![Kanga](../img/kanga.png)
+![Kanga](https://jekyll.mathkang.net/img/kanga.png)
 
 Link to [![LOGO](https://mathkang.bizml.ru/kenguru_logo.png)@GitHub](https://mathkang.bizml.ru)
 

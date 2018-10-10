@@ -10,9 +10,13 @@ title: Jekyll study for MathKang
 - Bulleted
 - List
 
-1. Numbered
-2. List
+0. Numbered
+0. List
 
 **Bold** and _Italic_ and `Code` text
 
-![LOGO](https://mathkang.bizml.ru/kenguru_logo.png) Link to [Macropus](https://macropus.bizml.ru)
+![Kanga](/img/kanga.png)
+
+Link to [![LOGO](https://mathkang.bizml.ru/kenguru_logo.png)@GitHub](https://mathkang.bizml.ru)
+
+Link to [Macropus@GitHub](https://macropus.bizml.ru)
